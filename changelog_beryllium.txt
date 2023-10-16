@@ -4,12 +4,18 @@ Device: Xiaomi Pocophone F1
 Device maintainer: AKSHAT
 
 ====================
+     16-10-2023
+====================
+- Synced latest source
+- Added Viper4FX
+- Tuned early phase offset values
+
+====================
      29-08-2023
 ====================
 - Synced latest source
 - Rebased Device Tree
 - Nuked Dolby support
-- Switched to Etude kernel
 - Nuked Useless Thermal Profiles
 
 ====================
