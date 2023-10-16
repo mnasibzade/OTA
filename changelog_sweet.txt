@@ -1,52 +1,34 @@
-{
-	"response": [
-		{
-			"maintainer": "UnmoveD",
-			"oem": "Xiaomi",
-			"device": "Xiaomi Redmi Note 10 Pro",
-			"filename": "AlphaDroid-13.0-20231015-sweet-gapps-v1.10.zip",
-			"download": "https://sourceforge.net/projects/alphadroid-project/files/sweet/AlphaDroid-13.0-20231015-sweet-gapps-v1.10.zip/download",
-			"timestamp": 1697390378,
-			"md5": "baeee5df90efe69f36ca17272a0035bf",
-			"sha256": "e6dcdfe273ff2f25a255b66e5cf64cbb834f466e6ce65c2628a3fe498a9a09",
-			"size": 2075454212,
-			"version": "1.10",
-			"buildtype": "gapps",
-			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "https://t.me/unmoved21",
-			"dt": "https://github.com/AlphaDroid-devices/device-xiaomi-sweet",
-			"common-dt": "https://github.com/AlphaDroid-devices/sweet_sm6150-common",
-			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_sweet"
-		}
-		{
-			"maintainer": "UnmoveD",
-			"oem": "Xiaomi",
-			"device": "Xiaomi Redmi Note 10 Pro",
-			"filename": "AlphaDroid-13.0-20231015-sweet-vanilla-v1.10.zip",
-			"download": "https://sourceforge.net/projects/alphadroid-project/files/sweet/AlphaDroid-13.0-20231015-sweet-vanilla-v1.10.zip/download",
-			"timestamp": 1693901623,
-			"md5": "7e5ea8a2c64b223f3148c8821a55536b",
-			"sha256": "a793a5dab95d444ebddce5e9b6cc815cda6d7accc678d74d951470547ed95e",
-			"size": ,
-			"version": "1.8",
-			"buildtype": "vanilla",
-			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "https://t.me/unnoved21",
-			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_sweet",
-			"common-dt": "https://github.com/AlphaDroid-devices/sweet_sm6150-common",
-			"kernel": "https://github.com/Alphadroid-devices/kernel_xiaomi_sweet"
-		}
-	]
-}
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi Note10 Pro
+Device maintainer: UnmoveD
+
+====================
+     16-10-2023
+====================
+
+• Leica default.
+• HBM fix.
+• Drop ViPER4Android FX 5.2
+• Oneplus Dolby default.
+• Switch to 4.14.327-STRIX kernel.
+• KernelSU added.
+• Update QTI factory HAL to v2.3
+• Enable Optimized Power Management
+• Use Proper NFC Fixup
+• Merge tag 'LA.UM.9.1.r1-14200-SMxxx0.QSSI14.0'  into kernel
+• Other Misc. fixes and changes
+• CTS passes by default.
+
+====================
+     05-09-2023
+====================
+
+initial AlphaDroid stable build
+Leica added.
+ViPER4Android FX added.
+HBM added.
+DC dimming added.
+Spatial audio added from cheetah-tq3a.230605.012.
+Fixed dolby mediacodecs support (Apple Music)
+CTS passes by default
