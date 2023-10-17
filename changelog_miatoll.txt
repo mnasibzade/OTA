@@ -3,6 +3,18 @@ Device: Redmi Note 9s/Pro/Pro max, Poco m2 Pro (miatoll)
 Device maintainer: ihsan & Atharva
 
 ====================
+     16-10-2023
+====================
+
+• Switched to power-libperfmgr
+• Switched to Pixel Thermal
+• Removed QTI perfd
+• Added support for spatial audio
+• Updated exfat
+• KSU - v0.6.9
+• YAMK kernel upstreamed to 4.14.326
+
+====================
      09-09-2023
 ====================
 
