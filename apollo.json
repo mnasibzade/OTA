@@ -4,13 +4,13 @@
 			"maintainer": "OzanKaya",
 			"oem": "Xiaomi",
 			"device": "Xiaomi Mi 10T/Pro",
-			"filename": "AlphaDroid-13.0-20230908-apollo-vanilla-v1.8.zip",
-			"download": "https://sourceforge.net/projects/alphadroid-project/files/apollo/AlphaDroid-13.0-20230908-apollo-vanilla-v1.8.zip/download",
-			"timestamp": 1694176482,
-			"md5": "e24c6b4b8bc1fd49d565c816625de517",
-			"sha256": "2fc71b5982e9cdfdeadc9a88d64f42e26541976c0ad5c992d8c2da91b5f9983a",
-			"size": 1408923861,
-			"version": "1.8",
+			"filename": "AlphaDroid-13.0-20231016-apollo-vanilla-v1.10.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/apollo/AlphaDroid-13.0-20231016-apollo-vanilla-v1.10.zip/download",
+			"timestamp": 1697463414,
+			"md5": "08dd03480df5e2d9043ab57f9a6c6ee8",
+			"sha256": "e28e4ee47ad725826dccb8a34e3f7216a1aec9488f6d3f100177fdc8b041ea32",
+			"size": 1410210302,
+			"version": "1.10",
 			"buildtype": "vanilla",
 			"forum": "https://t.me/alphadroid_chat",
 			"gapps": "",
@@ -22,19 +22,19 @@
 			"telegram": "https://t.me/OzansCave",
 			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_apollo",
 			"common-dt": "https://github.com/AlphaDroid-devices/device_xiaomi_sm8250-common",
-			"kernel": "https://github.com/AlphaDroid-devices/nexus_kernel_xiaomi_sm8250_apollo"
+			"kernel": "https://github.com/LowTension/BAALAM_android_kernel_xiaomi_sm8250"
 		},
 		{
 			"maintainer": "OzanKaya",
 			"oem": "Xiaomi",
 			"device": "Xiaomi Mi 10T/Pro",
-			"filename": "AlphaDroid-13.0-20230908-apollo-gapps-v1.8.zip",
-			"download": "https://sourceforge.net/projects/alphadroid-project/files/apollo/AlphaDroid-13.0-20230908-apollo-gapps-v1.8.zip/download",
-			"timestamp": 1694170344,
-			"md5": "e955a6338bd7173c20133e79fcdc6d4b",
-			"sha256": "ec33fd8776fd3c165f9ad14fb3b83043d3e0b066bda08419795cdcdf4493e668",
-			"size": 1894267307,
-			"version": "1.8",
+			"filename": "AlphaDroid-13.0-20231017-apollo-gapps-v1.10.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/apollo/AlphaDroid-13.0-20231017-apollo-gapps-v1.10.zip/download",
+			"timestamp": 1697547153,
+			"md5": "216661b778e2be30cdbc0e524eff00d5",
+			"sha256": "4a8efee2a9b17b6a99a3ccbb57506f6cebde64369ed58951199418d716b25fa3",
+			"size": 1824128674,
+			"version": "1.10",
 			"buildtype": "gapps",
 			"forum": "https://t.me/alphadroid_chat",
 			"gapps": "",
@@ -46,7 +46,7 @@
 			"telegram": "https://t.me/OzansCave",
 			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_apollo",
 			"common-dt": "https://github.com/AlphaDroid-devices/device_xiaomi_sm8250-common",
-			"kernel": "https://github.com/AlphaDroid-devices/nexus_kernel_xiaomi_sm8250_apollo"
+			"kernel": "https://github.com/LowTension/BAALAM_android_kernel_xiaomi_sm8250"
 		}
 	]
 }

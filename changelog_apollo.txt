@@ -5,6 +5,14 @@ Device maintainer: OzanKaya
 Required firmware: V14.0.1.0.SJDMIXM
 
 ====================
+     17-10-2023 (1.10)
+====================
+Kernel updated to x.296 Baalam 6.1
+Reworked GPU freq table/j3s
+AOSP dialer on gapps build
+Battery&Performance optimizations
+
+====================
      08-09-2023 (1.8)
 ====================
 sm8250-common: Added 150Mhz support
