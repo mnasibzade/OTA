@@ -29,3 +29,15 @@ quick tap, adaptive charging, adaptive connectivity, live caption & live transla
 * Enabled bouncer user switcher style on lockscreen
 * Other improvements under the hood
 
+=====================
+     10-19-2023
+=====================
+
+* Fixed gcam f/c
+* Fixed hold for me & direct my call
+* Fixed no default sound for phone/alarm
+* Some QS footer updates
+* Port statusbar brightness control
+* Refactor PixelProps
+* Increased default qs header size from 110 to 130
+* Other Misc improvements/updates
