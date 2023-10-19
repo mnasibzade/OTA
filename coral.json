@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "REV3NT3CH",
+			"oem": "Google",
+			"device": "Pixel 4 XL",
+			"filename": "AlphaDroid-13.0-20231018-coral-gapps-v1.10.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/coral/AlphaDroid-13.0-20231018-coral-gapps-v1.10.zip/download",
+			"timestamp": 1697659662,
+			"md5": "51c099c0d0bddde193ef086a05bd12d9",
+			"sha256": "6e95129ab14370328917eef47491b5b9447d0c7a93ac424c48a107c2e92ab421",
+			"size": 1837028052,
+			"version": "1.10",
+			"buildtype": "gapps",
+			"forum": "https://t.me/alphadroid_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/alphadroid-project/files/flame/boot.img/download",
+			"paypal": "https://t.me/rev3nt3ch",
+			"telegram": "https://t.me/pixel4seriesofficial",
+			"dt": "https://github.com/AlphaDroid-devices/device_google_coral",
+			"common-dt": "",
+			"kernel": "https://github.com/AlphaDroid-devices/B14CKB1RD_floral"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Google Pixel 4 XL (coral)
+Device maintainer: REV3NT3CH
+
+====================
+     10-18-2023
+====================
+
+* initial official AlphaDroid stable build
+* Comes with B14CKB1RD-Kernel 4.14.327 & Clang 17.0.4
+* Some pixel features are still being worked on
