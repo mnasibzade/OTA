@@ -4,6 +4,15 @@ Device: Google Pixel 4 (flame)
 Device maintainer: REV3NT3CH
 
 ====================
+     10-21-2023
+====================
+* Adaptive charging now implemented
+* Adaptive sound now implemented
+* Fixed Now Playing feature
+* Smart Pixels enabled (works in battery saver mode)
+* Various othe under the hood fixes
+
+====================
      10-18-2023
 ====================
 
