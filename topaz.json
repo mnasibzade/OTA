@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "hefatss",
+                        "oem": "Xiaomi",
+                        "device": "Xiaomi Redmi Note 12",
+                        "filename": "AlphaDroid-13.0-20231024-topaz-vanilla-v1.10.zip",
+                        "download": "https://sourceforge.net/projects/alphadroid-project/files/topaz/AlphaDroid-13.0-20>
+                        "timestamp": 1698154013,
+                        "md5": "ce2442d9082f94a3f2208d638bef2186",
+                        "sha256": "46853804a4d525cb5fc9960de40003a362efdd96bd63cf7317697faafb36dcf9",
+                        "size": 1394782381,
+                        "version": "1.10",
+                        "buildtype": "vanilla",
+                        "forum": "https://t.me/alphadroid_chat",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/hefatss",
+                        "dt": "https://github.com/AlphaDroid-devices/device_xiaomi_topaz",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}
