@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi Note 12
+Device maintainer: hefatss
+
+====================
+     25-10-2023
+====================
+- Initial Official Build
+- Add BCR (Basic Call Recording)
+- Imports dimens from curtana overlay
+- More Improvement & Stability
