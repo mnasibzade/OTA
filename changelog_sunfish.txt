@@ -1,225 +1,66 @@
 ====================
-     09-17-2023
+     10-24-2023
 ====================
-AlphaDroid Sunfish Vanilla & Gapps
-====================
-
-====================
-     09-16-2023
-====================
-
-   * vendor/lineage
-98cb66f7 AlphaDroid v1.9
+   * October build
 
 ====================
-     09-15-2023
+     10-23-2023
 ====================
 
-   * frameworks/base
-ed384818d308 SystemUI: add percentage view to brightness bar [1/2]
-66dade7145f2 SettingsLib: make MainSwitchPreference background transparent
-6fa1cc1412a9 DeviceConfig: Change setProperties behavior
-9991a09d074e DeviceConfigUtils: Make debug optional
-78f432f1a416 Implement DeviceConfigUtils and service
-43d7772f939e fixup! QSFooter: Launch AlphaDroid Settings when long clicking settings
-1375fa3b0528 Smart5gService: guard it with overlay
-25e4067b8ad7 FPSInfoService: Revamp FPS counter
-52083cca0bd9 SystemUI: Grant INTERACT_ACROSS_USERS_FULL permission for smartspace
-8c63844759e0 Extend optional haptic feedback on back gesture to new affordance
-3cc82eb4622c SystemUI: Extend back gesture visibility to new affordance
-2cf10c783bd9 SystemUI: Optional haptic feedback for back gesture [1/2]
-917fbd01fd35 Partially revert "Optional haptic feedback on back gesture [1/2]"
-b3c0b145445f SystemUI: Resolve crashes caused by allowing the reinflation of SystemUI.
-ec515b5ebbf4 SystemUI: Prevent back invocations callbacks from trigerring long swipe action
-1a7fd4181dc0 SystemUI: Back gesture affordance improvements
-495ce9bfd3f6 SystemUI: Edge long press implementation for new back affordance
-1dfb2b5ced8b SystemUI: Enable new back gesture affordance
-ced096aab96c NotificationChannel: Fix URI failures caused by securityException
-7ef91666c0a2 SystemUI: Re-evaluate theme when changing VoLTE or VoWiFi Icons
-8c7a89ead879 base: Fix scheduled AOD/Sleep mode
-55c1eb646e01 [SQUASH] base: Allow scheduling always on display [1/2]
-02e88cd5b724 overlays: Update notchbarkiller overlays
-f41f8126845e overlays: Add notchbar killer for left-notch devices
-92f8f0456664 overlays: Add notch bar killer
-5b0299de2aa5 Pixel fixup: UdfpsView: insert a condition on illumination dot logic
-2d5eb37f695f Pixel fixup: UDFPS: trigger onFingerDown with regular action down events
-
-   * packages/apps/AlphaSettings
-c4a09de New Crowdin translations
-f4d7441 AlphaSettings: add brightness bar percentage toggle
-ab01498 Add USB Configuration strings
-
-   * packages/apps/Aperture
-67078d0 Automatic translation import
-
-   * packages/apps/Eleven
-07207d00 Automatic translation import
-
-   * packages/apps/Etar
-6ec123ea Automatic translation import
-
-   * packages/apps/Settings
-3ee9ae884e [SQUASH] Settings: Allow scheduling always on display [2/2]
-8572904741 Merge cherrypicks of ['googleplex-android-review.googlesource.com/23563580', 'googleplex-android-review.googlesource.com/23728493', 'googleplex-android-review.googlesource.com/23545068'] into security-aosp-tm-release.
-80c14292f1 DO NOT MERGE: Prevent non-system IME from becoming device admin
-c932d4cfd1 Settings: Add missing icon for Adaptive connectivity
-01c212ac2d merge DoT resources
-
-   * packages/inputmethods/LatinIME
-606bf0d27 LatinIME: Add emojiKeyStylePopup for sw600dp
-
-   * vendor/crowdin
-8bce613 Automatic translation import
-
 ====================
-     09-14-2023
+     10-22-2023
 ====================
-
-   * frameworks/base
-abf8c9d8fcb1 The surface hang up when screen on and screen off
-a748c9f8db0d Fix scrim issues regarding transparency
-cde284244f58 SettingsLib: Fix the collapsing toolbar bg color
-7766729fbc43 core: Make all list dividers transparent
-11d26ceb7653 SettingsLib: Make IllustrationPreference bg protection transparent
-51240451fde2 Add null checks when registering backup transport
-e6c9ea4c3f60 Revert "Treat process group creation failure due to a dead process as non-fatal"
-2638d873a0ab core: pm: Allow wildcard in RRO system property value checks
-d9b5af07e8b5 SystemUI: Enable power menu blur via window flags
-9b0107ad797e Partially revert "PixelPropsUtils: Refactor logic and cleanup"
-19a71ffb8752 Revert "PixelPropsUtils: GPhotos: use PixelXL for spoofing"
-cab69989aee3 Merge cherrypicks of ['googleplex-android-review.googlesource.com/23476871', 'googleplex-android-review.googlesource.com/23733070', 'googleplex-android-review.googlesource.com/23474146', 'googleplex-android-review.googlesource.com/23905843', 'googleplex-android-review.googlesource.com/23905120', 'googleplex-android-review.googlesource.com/23834726'] into security-aosp-tm-release.
-
-   * packages/apps/Aperture
-79ee5da Aperture: Run ./gradlew app:generateBp
-7fccb00 Aperture: Use generateBp plugin from maven repo
-
-   * packages/apps/Jelly
-562bc91 Jelly: Run ./gradlew app:generateBp
-42c0087 Jelly: Use generateBp plugin from maven repo
-
-====================
-     09-13-2023
-====================
-
-   * build/soong
-475b9901a Merge branch '13.0' of https://github.com/crdroidandroid/android_build_soong into HEAD
-
-   * frameworks/base
-1532e7bf5732 DO NOT MERGE Revert "Verify URI permissions for EXTRA_REMOTE_INPUT_HISTORY_ITEMS."
-e5da061f7d29 base: Do not reset keyguard going away state - Fixes the flicker on turning of the screen when udfps is enabled
-b5bdc7b12db2 PixelPropsUtils: GPhotos: use PixelXL for spoofing
-78520e9f3ca4 services: Bypass security check when checking provider permissions for google apps
-
-   * packages/apps/Dialer
-96b0ef25c New Crowdin updates (#73)
-
-   * packages/apps/crDroidSettings
-60988b3 New Crowdin updates (#1068)
-
-   * packages/inputmethods/LatinIME
-4c18210b2 fixup! LatinIME: Make emoji key look like any other key
-
-   * packages/services/Telecomm
-3ba1e6952 Fix ConnectionServiceFocusManager NPE
-
-====================
-     09-12-2023
-====================
-AlphaDroid Sunfish Initial Builds (GAPPS/VANILLA)
-
-   * hardware/qcom-caf/sm8550/audio/agm
-a72154a agm: fixup!: OSS compile for plugins
-
-   * packages/apps/Aperture
-1bd3662 Aperture: Update CameraX maven repo URL
-
-====================
-     09-11-2023
-====================
-
-   * frameworks/av
-3cc1391246 Fix Segv on unknown address error flagged by fuzzer test.
-
-   * packages/apps/Aperture
-5cd5058 Aperture: Detect uncommitted changes after running app:generateBp
-
-   * packages/apps/Launcher3
-700bbc9059 Fix permission issue in legacy shortcut
-31a054f0d3 Merge branch '13.0' of https://github.com/crdroidandroid/android_packages_apps_Launcher3 into alpha-13
-
-   * packages/apps/Nfc
-dbfdf1d4 Ensure that SecureNFC setting cannot be bypassed
-
-   * packages/apps/Settings
-36780c1cab Settings: Add toggle for Smart 5G [2/2]
-
-   * packages/providers/MediaProvider
-f427b778c Canonicalize file path for insertion by legacy apps
-9a24e13c0 Remove invalid surrogates during bindSelection
-
-   * packages/services/Telephony
-70232926b Fixed leak of cross user data in multiple settings.
-
-====================
-     09-10-2023
-====================
-
-   * packages/apps/Settings
-48830ffa3a Revert "Settings: Do not skip fp authentication for udfps"
-
-====================
-     09-09-2023
-====================
-
-   * packages/apps/Settings
-5f47ec51e2 Settings: Update Glide library to 4.16.0
-88db05b865 Settings: Partial import DotOS A11 About Phone design
-be91118c52 move USB configuration strings to AlphaSettings
-3759f87e36 Settings: Add Default USB Configuration
-
-   * packages/inputmethods/LatinIME
-291203967 LatinIME: Default to Material You theme
-037bdf37c LatinIME: Add libjni_latinimegoogle for swype
-4da1c0862 LatinIME: Fix NPE in KeyboardTheme
 
    * vendor/pixel-framework
-737d342 Elmyra: OpaLockscreen: use existing public method to get KeyguardBottomAreaView
-a248f06 system_dashboard_fragment: add default USB configuration preference
-08b6c0d power_usage_summary: Update fastcharge preference
+08d1186 SystemUIGoogle: Initiate smart pixels service
 
 ====================
-     09-08-2023
+     10-21-2023
 ====================
 
-   * build/soong
-deba71347 Merge 'lineage-20.0' into 13.0
+   * frameworks/base
+72f58182abfa ParallelSpaceMananerService: set the correct package name for updater
+247cf4468ecb Rebrand UDFPS icons and animations
+7e62171892bc Restore Netflix spoofing and make AS spoofing optional
 
-   * packages/apps/Aperture
-9945a5d Aperture: Use Material You color on location dialog
-b07cf68 Aperture: Use Material You colors on QR bottom sheet
-45612be Aperture: Properly observe / remove observers from LiveDatas
-b41107f Aperture: Cleanup cameras parsing
-8f64c4d Aperture: New camera mode selector UI
-
-====================
-     09-07-2023
-====================
-
-   * device/lineage/sepolicy
-e387714 Fastcharge: add ResctrictedCurrent interface to hwservice contexts
-
-   * hardware/lineage/interfaces
-6a48532 Extend Fastcharge implementation [1/3]
-
-   * hardware/qcom-caf/sm8450/audio/pal
-faf5da46 pal: Update kvh2xml for current branch
-
-   * hardware/qcom-caf/sm8550/audio/pal
-d22432bd pal: Complement kvh2xml header
-9a816119 pal: Update kvh2xml for current branch
-
-   * packages/apps/Aperture
-09a3389 Aperture: Move all the remaining views changes to livedata observers
+   * packages/apps/AlphaSettings
+c6df6e1 Rebrand UDFPS icons and animations
 
    * packages/apps/Settings
-a41d3c94dc Extend Fastcharge implementation [2/3]
+b47822dbed Don't show reset battery stats icon if Pixel chart is enabled
+
+   * vendor/addons
+cb06b1ae Add several new UDFPS icons from https://t.me/OP_fps and rebrand all udfps packages
+f4d0c12d Update default wallpaper
+
+====================
+     10-20-2023
+====================
+
+   * frameworks/base
+c7397b880fb9 PIH: Spoof as Pixel Tablet to AIAI CpuUtils
+bc73361b6316 PIH: Spoof Pixel tablet to ASI related services
+00e7e173cc13 PIH: Bump Google pixel fingerprints for September ASB
+00266d0c7710 PIH: Spoof september security patch version for non-google apps
+6b3865dfaefc PIH: Remove unused property
+42f13392dba6 PIH: Fixes and spoofing improvements
+
+====================
+     10-19-2023
+====================
+
+   * packages/apps/Settings
+73780a5207 FastChargingPreferenceController: update summary on resume event too
+
+====================
+     10-18-2023
+====================
+
+   * frameworks/base
+4d813b5b4928 SystemUI: Port statusbar brightness control
+
+   * packages/apps/AlphaSettings
+13573b9 Revert "crdroid: Disable statusbar brightness control"
+
+   * packages/apps/Settings
+f5e2705073 Don't show pixel chart toggle on aosp settingss
