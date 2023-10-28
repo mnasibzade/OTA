@@ -4,6 +4,14 @@ Device: Redmi Note 4
 Device maintainer: KamiKaonashi
 
 ====================
+     28-10-2023
+====================
+
+hotfix update
+add back search bar in settings
+kernel source clean up
+
+====================
      07-10-2023
 ====================
 
