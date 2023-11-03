@@ -4,6 +4,21 @@ Device: Xiaomi Redmi Note 12
 Device maintainer: hefatss
 
 ====================
+     03-11-2023
+====================
+- Sync Latest Source
+- Add Health HAL AIDL Implementation
+- Build libgrpc++_unsecure from source
+- Update Powerhal to 1.3
+- Address ro.config.name Denial
+- Fixing Hardware Denial
+- Configure default light sensor type
+- Create a Button Jack Key layout for headphones
+- Import fingerprint lottie animation DSI
+- Update prebuilt GKI Kernel to 5.15.132
+- More Improvement & Stability
+
+====================
      25-10-2023
 ====================
 - Initial Official Build
