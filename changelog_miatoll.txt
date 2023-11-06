@@ -3,6 +3,17 @@ Device: Redmi Note 9s/Pro/Pro max, Poco m2 Pro (miatoll)
 Device maintainer: ihsan & Atharva
 
 ====================
+    06-11-2023
+====================
+
+* Latest Yamk 4.14.328
+* Latest KSU 0.7.0
+* Viper Inbuilt
+* Fixed Dolby Module not working
+* Updated Thermals
+* Leica 5.0 inbuilt
+
+====================
      16-10-2023
 ====================
 
