@@ -3,6 +3,13 @@ Device: Xiaomi Mi 9 SE (Grus)
 Device maintainer: elpaablo
 
 ====================
+     11-11-2023
+====================
+
+* AlphaDroid spoofing update (should fix safetynet issues)
+* KernelSU update (11346)
+
+====================
      07-10-2023
 ====================
 
