@@ -3,6 +3,14 @@ Device: Realme GT Neo 3T (rmx3371)
 Device maintainer: Amrutesh
 
 ====================
+     03-11-2023
+====================
+* october security patch
+* upstreamed kernel 4.19.295
+* added charging control
+* nuked unecessary stuff
+
+====================
      31-08-2023
 ====================
 * OOS dolby support
