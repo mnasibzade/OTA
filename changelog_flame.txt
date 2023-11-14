@@ -4,6 +4,17 @@ Device: Google Pixel 4 (flame)
 Device maintainer: REV3NT3CH
 
 ====================
+     11-13-2023
+====================
+* Smart Pixels (now fully works)
+* Adaptive charging replaced with los charging control
+* Added System Haptics Settings
+* Upload bug fixed in kernel (flash new boot.img if coming from older build)
+* B14CKB1RD-Kernel updated to 4.14.329 and 0.7.0 KSU (allows magisk to be flashed over)
+* Fixed Lockscreen Swipe Up when app open bug
+* Various other fixes
+
+====================
      10-21-2023
 ====================
 * Adaptive charging now implemented
