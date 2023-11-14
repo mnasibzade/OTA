@@ -4,6 +4,22 @@ Device: Xiaomi MI 9T
 Device maintainer: t.me/hopethislasts
 
 ====================
+     14-Nov-2023
+====================
+Likely Final release of Android 13.
+
+Source Changelog
+* Added starusbar brightness control option
+* Add desktop Mode
+* Possible fix for failing safetynet
+
+Device ChangeLog
+* Update to Leica 5.0
+* Upstream kernel to 4.14.329
+* Update kernelsu driver to latest version (Magisk should now be able to be installed without changing to non ksu kernel)
+* Switch to opengl renderer
+
+====================
      09-Oct-2023
 ====================
 * Alphadroid 1.10 Update
