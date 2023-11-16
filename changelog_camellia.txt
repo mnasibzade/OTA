@@ -5,6 +5,13 @@ Device maintainer: NaokoShoto
 Required firmware: MIUI 14+
 
 ====================
+     16-11-2023
+====================
+
+- Device Tree Rebase
+- Sync to latest AlphaDroid source
+
+====================
      08-10-2023
 ====================
 
