@@ -4,6 +4,16 @@ Device: Xiaomi Redmi Note 11
 Device maintainer: Agatha
 
 ====================
+     25-11-2023
+====================
+- Sync Latest Source
+- October sec path (EOL)
+- Add support for Mi Dolby 
+- Make sure set 3GB Zram for all variant
+- Implement HBM switch
+- Upstream MI680 Kernel v4.19.299
+- More Improvement And Stability
+====================
      26-08-2023
 ====================
 - Sync Latest Source
