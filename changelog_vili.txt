@@ -4,62 +4,24 @@ Device: Xiaomi 11T Pro
 Device maintainer: Cr1st1anlp
 
 ====================
-     03-08-2023
+     15-02-2024
 ====================
-- Initial Official Build
+- Initial Official A14 Build
 - Safetynet Passed by default
 - KSU Support
-
-====================
-     04-08-2023
-====================
-- Fixed auto brightness.
-- Add dolby atmos
+- dolby atmos
 - Leica camera
-- Other minor improvements
+- Merged kernel 5.4.268
+- ViPER4Android FX
 
-====================
-     29-08-2023
-====================
-- Fixed Tiktok crashed
-- Fixed Grey color in Netflix Dolby Vision
-- Update KSU
-- Sync latest source changes
-- Added high touch polling rate toggle
-- Build Blaze kernel by Paul
-- Added Dirac logo
-- Other minor improvements
+Known issues:
 
-====================
-     01-09-2023
-====================
-- Fixed Google restore
-- Fixed installing apps from a third party provide
-- Added support  DC DImming
-- Change to kernel Blaze 210
-- Fixed some hdr problems on youtube
+- Video playback on netflix and other ott apps
 
-====================
-     07-09-2023
-====================
-- Fixed crash some games ( arena breakout etc. )
-- Build with lasted Blaze kernel thanks to Paul Piro dev
-- Enable Multi-gen LRU
-- Enable suspended ram for idle drain
-- Enable spatializer effect for wired headset
-- Added gallery global for spanish
-- Added gallery editor
-- Update leica to versión 5
-- Added suport Kprofiles
-- Others improvements under the hood
+Temporary solutions:
 
-====================
-     09-09-2023
-====================
-- Fixed disabling speakerphone during call
-- Fixed Fixed sound when connecting bluetooth headphones
-- Added enabled search in settings
-- Added quick tap 
-- Sound improvements
-- Others improvements under the hood
+  1) Flash Kangaroox or other kernel (recommended)
+
+  2) Delete vendor/lib64/liboemcrypto.so using a root explorer and reboot (will drop widevine to L3)
+
 
