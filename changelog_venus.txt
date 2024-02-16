@@ -4,6 +4,15 @@ Device: Xiaomi Mi 11
 Device maintainer: KamiKaonashi
 
 ====================
+     15-02-2024
+====================
+
+initial A14 release
+update Viper4FX
+rebase device tree, vendor and kernel
+add support for aPatch
+
+====================
      07-10-2023
 ====================
 
