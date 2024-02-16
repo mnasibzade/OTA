@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: POCO X5 5G/Redmi Note 12 5G
+Device maintainer: KamiKaonashi
+
+====================
+     15-02-2024
+====================
+
+initial A14 release
+add Viper4FX
+add Dolby Atmos
+force Vulkan renderer
+enable blur
+add GrapheneCamera
+fix FM Radio
+lots more
