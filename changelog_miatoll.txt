@@ -3,6 +3,16 @@ Device: Redmi Note 9s/Pro/Pro max, Poco m2 Pro (miatoll)
 Device maintainer: ihsan & Atharva
 
 ====================
+    17-02-2024
+====================
+
+* Initial AlphaDroid 2.0 build
+* Yamk 4.14.336 EOL
+* Stock MiCam
+* KSU 0.6.7
+* Added Charging Control 
+
+====================
     06-11-2023
 ====================
 
