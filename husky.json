@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "OscarM",
+			"oem": "Google",
+			"device": "Pixel 8 Pro (husky)",
+			"filename": "AlphaDroid-14.0-20240218-husky-gapps-v2.0.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/husky/AlphaDroid-14.0-20240218-husky-gapps-v2.0.zip/download",
+			"timestamp": 1708324914,
+			"md5": "aa080d75616ff74812b03f6bc6eb69e3",
+			"sha256": "5380f113bd8baa39bb3813b119e0226662ebfb86062524e0e4fb577937a585ab",
+			"size": 2512873080,
+			"version": "2.0",
+			"buildtype": "gapps",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "paypal.me/osmjr1019",
+			"telegram": "https://t.me/p8seriesromextravaganza",
+			"dt": "https://github.com/AlphaDroid-devices/device_google_shusky",
+			"common-dt": "https://github.com/AlphaDroid-devices/device_google_zuma",
+			"kernel": ""
+		}
+	]
+}

@@ -1,0 +1,22 @@
+Build type: Monthly
+Device: Pixel 8 Pro (husky)
+Device maintainer: OscarM
+
+====================
+    18-02-2024
+====================
+*Fixed Google Gemini
+*Refactor pixelprops For Pixel8 Series
+*Updated carrier settings to QPR3 Beta 1
+*Many More Optimiztaions and Under the Hood Stuff
+
+
+
+====================
+    17-02-2024
+====================
+
+* Initial AlphaDroid 2.0 build
+* Pixel Thermometer Working
+* All Pixel Feature Working
+* Many More!
