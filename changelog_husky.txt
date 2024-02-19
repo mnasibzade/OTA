@@ -8,7 +8,6 @@ Device maintainer: OscarM
 *Add more props for Pixel 8 series
 *more CPU optimizations
 
-
 ====================
     18-02-2024
 ====================
