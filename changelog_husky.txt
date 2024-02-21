@@ -3,6 +3,16 @@ Device: Pixel 8 Pro (husky)
 Device maintainer: OscarM
 
 ====================
+    20-02-2024
+====================
+*Add more props for Pixel 8 series
+*more CPU optimizations
+*add gemini to Pixel Props Util
+*Update Shusky-Kernel to Tag r_27
+*Add More pixel Overlays
+
+
+====================
     19-02-2024
 ====================
 *Add more props for Pixel 8 series
