@@ -1,119 +1,34 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Poco F5 / Redmi Note 12 Turbo
-Device maintainer: JYR_RC
+Device maintainer: CHAITANYA
 
-=====13/10/2023=====
+=====06/03/2024=====
+- marble: thermal: Nuke qti thermal
+- marble: thermal: Import qcom-caf thermal HAL
+- marble: init: Set minimum scaling frequency of silver cluster to 300MHz
+- marble: rro-overlay: Don't use proximity sensor for DozeSensors
+- marbe: config: Enable Advanced SF Phase Offsets
+- marble: overlay: Make the UI smoother
+- marble: Debloat Some Apps
+- marble: overlay: Add config_wallpaperMaxScale overlay
+- marble: Fixup-Enable FUSE Passthrough
+- marble: rootdir: Fix the battery drain due to statsd...?
+- marble: Kang libqcrilNrSmsModule.so from OOS 11.C.51
+- Revert "[PATCH] marble: Import oriole cpuctl tuning"
+- marble: BoardConfig: set HWUI_COMPILE_FOR_PERF to "true"
+- marble: Import Powerhint from stock
+- marble: props: Remove Force triple frame buffers
+- marble: Sync some of the refresh rate properties with Pixel
+- marble: Optimise dex flags
+- marble: overlay: improve signal reception
+- marble: configs: wifi: Disable FW TWT
+- marble: Move to PreferenceFragmentCompat
+- marble: sepolicy: qti: Address qcom perf hal denials
+- fixup! marble: Enable VoNR Calls support
+- marble: overlay: Don't require long press for lockscreen shortcuts
+- marble: Enable GL comp backpressure
 
--Introduce displayfeature color services
-
--Implement pocket detection service
-
--Enable config_doze pulsepickup
-
--Disable smooth display in settings
-
--Enable toggle Refresh rate
-
--Enable toggle Dolby Atmos
-
--Added stock config_rounded_mask
-
--Added battery friendly pocket mode
-
--Disable FEAS support
-
--Disable One vision support
-
--Import audio_effects.XML
-
--Added qcom implementation for audio effects
-
--Added Oneplus dolby and Ldac Support
-
--Minor changes and stabilty 
-
--Update kernel Melt linux 5.10.194 Clang versión 12.0.5-version 2.2.7
-
--Update Changes support Leica Camera
-
--Ota Supported
-
-
-
-
-
-
-Highlights & Device Specific Changes:
-Build type: Monthly
-Device: Poco F5 / Redmi Note 12 Turbo
-Device maintainer: JYR_RC
-
-
-=====31/08/2023=====
-
--Build Hotfix
-
--Fixed fingerprint on some devices
-
--Fixed 5g network disconnections on some devices
-
--Fixed auto brightness
-
--Update Kernel Melt,GKI 5.10.188,KernelSU Support,Full LTO
- 
--Added FEAS support
-(Need to work with FEASHelper)
-
--Ext4 file system
-
--Support to enable VoNR
-
-
-Highlights & Device Specific Changes:
-Build type: Monthly
-Device: Poco F5 / Redmi Note 12 Turbo
-Device maintainer: JYR_RC
-=====08/08/2023 =====
-
--Update Sources 1.7.9
--Small changes in stability
--New oneplus audio codecs
-
-
-===== 27/08/2023 =====
-
-
--Build using vendor Oss And Kernel prebuilt
-
--Update Melt kernel prebuilt 2.1.4
-
--Restore backup to startup fixed
-
--Fixed auto brightness
-
--Bright colors Added 
-
--Dolby Vision Added
- 
--Dolby Atmos oneplus 
-
--Added Ldac codecs 
-
--Thermals working correctly 
-
--Added battery health Enable
-
--Qualcomm TrueWireless™ Stereo
-
--Added refresh rate in settings
-
-
-
-Highlights & Device Specific Changes:
-Build type: Monthly
-Device: Poco F5 / Redmi Note 12 Turbo
-Device maintainer: JYR_RC
-===== 29/07/2023 =====
-
-- Initial GMS build And Core Gapps Build.
+Note:- 
+Give rom 1 day to settle
+Read flashing steps -: https://t.me/chaitanyabuilds/65637
