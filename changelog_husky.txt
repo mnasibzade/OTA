@@ -3,6 +3,15 @@ Device: Pixel 8 Pro (husky)
 Device maintainer: OscarM
 
 ====================
+    06-03-2024
+====================
+*Add more props for Pixel 8 series
+*Fixed CPU Spike Bug
+*Add KernelSU
+*Add Google Stock Face Unlock
+*Under the Hood Stuff and optimizations
+
+====================
     20-02-2024
 ====================
 *Add more props for Pixel 8 series
