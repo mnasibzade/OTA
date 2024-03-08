@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "AlphaDroid-14.0-20240307-shiba-gapps-v2.0.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/shiba/AlphaDroid-14.0-20240307-shiba-gapps-v2.0.zip/download",
+			"timestamp": 1709866964,
+			"md5": "e4bd0097fc8626a74e2107c2facccea8",
+			"sha256": "ffc7450bbbb55ebb09c970be573ba424fcf3897c58bf28ff3698f20af1a0490a",
+			"size": 2232689516,
+			"version": "2.0",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
