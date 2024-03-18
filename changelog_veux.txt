@@ -4,6 +4,21 @@ Device: Poco X4 Pro
 Device maintainer: MrTopiA
 
 ====================
+     21-03-2024
+====================
+
+- MUST READ !!! - Only Flash via OTA if your are on 17-03-2023 Build
+- Synced latest source
+- Dropped Xiaomi Parts
+- Added Oneplus Dolby Atmos
+- Added MIUI Camera
+- Added Multiple Color Profiles
+- Fixed Brightness Fully
+- Switched to new trees by Alex Winokowski
+- Added Battery Health Overlay
+- Added OTA Support from now on
+
+====================
      09-03-2024
 ====================
 - Synced latest source
