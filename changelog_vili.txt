@@ -4,6 +4,27 @@ Device: Xiaomi 11T Pro
 Device maintainer: Cr1st1anlp
 
 ====================
+     23-03-2024
+====================
+- Fix Volte 
+- Switch to Dolby Manager
+- Update Ksu to the latest version
+- Enable config avoidGfxAccel
+- Update adreno blobs from AOSPA/CLO
+- Add Basic call recorder
+- Other Fixes under the hood
+
+Known issues:
+
+- Video playback on netflix and other ott apps
+
+Temporary solutions:
+
+  1) Flash Kangaroox or other kernel (recommended)
+
+  2) Delete vendor/lib64/liboemcrypto.so using a root explorer and reboot (will drop widevine to L3)
+
+====================
      15-02-2024
 ====================
 - Initial Official A14 Build
