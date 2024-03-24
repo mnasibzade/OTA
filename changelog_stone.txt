@@ -4,6 +4,18 @@ Device: POCO X5 5G/Redmi Note 12 5G
 Device maintainer: KamiKaonashi
 
 ====================
+     24-03-2024
+====================
+
+fix RAM management
+set 3GB ZRAM for all users
+switch to SKIAGL renderer
+disable unnecessary props
+adjust vibration
+fix screen recorder
+lots more
+
+====================
      15-02-2024
 ====================
 
