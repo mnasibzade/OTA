@@ -5,43 +5,4 @@ Device maintainer: OscarM
 ====================
     06-03-2024
 ====================
-*Add more props for Pixel 8 series
-*Fixed CPU Spike Bug
-*Add KernelSU
-*Add Google Stock Face Unlock
-*Under the Hood Stuff and optimizations
-
-====================
-    20-02-2024
-====================
-*Add more props for Pixel 8 series
-*more CPU optimizations
-*add gemini to Pixel Props Util
-*Update Shusky-Kernel to Tag r_27
-*Add More pixel Overlays
-
-
-====================
-    19-02-2024
-====================
-*Add more props for Pixel 8 series
-*more CPU optimizations
-
-====================
-    18-02-2024
-====================
-*Fixed Google Gemini
-*Refactor pixelprops For Pixel8 Series
-*Updated carrier settings to QPR3 Beta 1
-*Many More Optimiztaions and Under the Hood Stuff
-
-
-
-====================
-    17-02-2024
-====================
-
-* Initial AlphaDroid 2.0 build
-* Pixel Thermometer Working
-* All Pixel Feature Working
-* Many More!
+-Initial Alpha 2.1 Release
