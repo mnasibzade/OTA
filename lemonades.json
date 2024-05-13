@@ -1,0 +1,52 @@
+{
+	"response": [
+		{
+			"maintainer": "zizzyboi",
+			"oem": "OnePlus",
+			"device": "9R",
+			"filename": "AlphaDroid-14.0-20240512-lemonades-gapps-v2.1.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/lemonades/AlphaDroid-14.0-20240512-lemonades-gapps-v2.1.zip/download",
+			"timestamp": 1715526691,
+			"md5": "0ffd250a93d3c998db37ea1b5a8c18b6",
+			"sha256": "ade900a8011a4c5a8e4726997be0569474509d462668fe83517b4570fdead9c3",
+			"size": 2298831011,
+			"version": "2.1",
+			"buildtype": "gapps",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/zizzyboi?country.x=CA&locale.x=en_US",
+			"telegram": "https://t.me/zahidsromfactory",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+			},
+			{
+			"maintainer": "zizzyboi",
+			"oem": "OnePlus",
+			"device": "9R",
+			"filename": "AlphaDroid-14.0-20240513-lemonades-vanilla-v2.1.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/lemonades/AlphaDroid-14.0-20240513-lemonades-vanilla-v2.1.zip/download",
+			"timestamp": 1715622512,
+			"md5": "d5f22f543e26a87ea82bd4b59408e46c",
+			"sha256": "0533350342ad0979cd57a521780eaf6f8b17693543f6e81d07603577803ceab3",
+			"size": 1744982332,
+			"version": "2.1",
+			"buildtype": "vanilla",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/zizzyboi?country.x=CA&locale.x=en_US",
+			"telegram": "https://t.me/zahidsromfactory",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
