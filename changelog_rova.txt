@@ -6,84 +6,14 @@ Required firmware: V10.1.1.0.NCKMIFI (Nougat Firmware)
 
 
 ====================
-     27-08-2023
+     14-05-2024
 ====================
-- Synced latest source
-- Updated audio and media HALs
-- fintune media perf xml
-- Fixed broken "Connect to Wifi" feature in Tasker app
-- Fixed random System app crash due to Lineage Health feature
-- Optimized overall performance & battery backup
-- Some minor fixes and improvements
-
-====================
-     27-08-2023
-====================
-- Synced latest source
-- Some minor fixes and improvements
-
-====================
-     20-07-2023
-====================
-- Synced latest source 
-- Fixed Qs lags
-- Fine-tuned SurfaceFlinger
-- Increased max. hotspot connections to 16
-- Added missing GPS blobs & increased stability
-- Fixed "Accessibility -> Remove animations" option being reset after reboot
-- Fixed randomly disappearing mobile data for some SIM carriers
-- Unlocked 1497.6MHz (Turbo) max. CPU frequency   
-- Shipped with  4.9.337-3.12-iusmac kernel 
-- Optimized graphics render engine
-- Some minor fixes and improvements
-
-====================
-     21-05-2023
-====================
-- Synced latest source 
-- Switched back to Launcher3 
-- Renabled GFX acceleration for 3GB variants again (Seem UI rendering smoother)
-- Optimized graphics render engine
-- Some minor fixes and improvements
-
-====================
-     20-05-2023
-====================
-- Synced latest source 
-- Added core_gapps build
-- Fixed sluggish QS pulldown
-- Fixed random reboot to system that was going to bootloader/fastboot
-- Switched the Launche3 to Pixel Launcher
-- Upgraded kernel to 4.9.337-3.12-iusmac
-- Optimized overall performance & battery backup
-- Optimized graphics render engine
-- Some minor fixes and improvements 
-
-====================
-     04-05-2023
-====================
-- Synced latest source 
-- Increased DPI to 280
-- Disable zRAM deduplication
-- Turned off Skia option "reduceOpsTaskSplitting"
-- Removed dead Bluetooth A2DP offload property 
-- Upgraded kernel to 4.9.337-3.11-iusmac
-- Shifted to defaults auto brightness debounce values
-- Bringback the PocketJudge(PocketMode breaking deepsleep)
-- Optimized graphics render engine
-- Some minor fixes and improvements
-
-====================
-     29-04-2023
-====================
-- Intial build
+- Initial release
 - Synced latest source  
-- Enabled 1.5 IRadio hal 
-- Add toggle to force enable LTE CA 
-- Modified the SurfaceFlinger props    
-- Added different perf HAL properties
-- Droped PocketJudge and switch back to PocketMode  
-- Optimized ART props and switched dex2oat-filter to speed-profile
-- Some minor fixes and improvements  
+- Shipped with kernel4.19.306-4.1-iusmac
+- Adapted RAM+ feature to Android U
+- Force enabled VoLTE option
+- Optimized overall performance & battery backup
+- Some minor fixes and improvement
 
 ...
