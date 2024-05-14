@@ -1,0 +1,18 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Nothing Phone (1)
+Device maintainer: zizzyboi
+Required firmware: NOS 2.5.5
+
+====================
+     13-05-2024
+====================
+
+- Initial QPR2 build
+- NOS cam included
+- Dolby not included
+- BCR call recorder included
+- Vanilla build included as well
+- Performance improvements
+- Stability improvements
+- Updated blobs to NOS 2.5.5
