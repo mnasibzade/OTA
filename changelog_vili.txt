@@ -4,6 +4,21 @@ Device: Xiaomi 11T Pro
 Device maintainer: Cr1st1anlp
 
 ====================
+     15-05-2024
+====================
+- Fixed OTT apps like Netflix issue with Widevine L1 with LOS kernel
+- VILI Vendor blobs updated to VILI EEA V816.0.1.0.UKDEUXM
+- COMMON Vendor blobs updated to Haydn V816.0.1.0.UKKCNXM (HyperOS)
+- Update Ksu to the latest version
+- Adjust Color Modes from stock
+- Update Basic call recorder
+- Better RAM management
+- dex2oat64 on sm8350
+- Disable Skia tracing by default
+- Build with Lawnchair
+- Other Fixes under the hood
+
+====================
      23-03-2024
 ====================
 - Fix Volte 
