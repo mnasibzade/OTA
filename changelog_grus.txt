@@ -1,83 +1,22 @@
-Build type: Monthly
 Device: Xiaomi Mi 9 SE (Grus)
 Device maintainer: elpaablo
 
 ====================
-     11-11-2023
+     16-05-2024
 ====================
 
-* AlphaDroid spoofing update (should fix safetynet issues)
-* KernelSU update (11346)
+* AlphaDroid 2.1
+* Synced LOS common trees
+* Adapted to Android 14 QPR2
+* Updated KernelSU implementation (hopefully no more safemode auto-switch)
 
 ====================
-     07-10-2023
+     20-02-2024
 ====================
 
-* AlphaDroid 1.10
-* Handled AoD FOD issues
-* Changed vibrator implementation
-* Added vibration intensity control
-* Added USB2.0 fastcharge support
-* Updated KernelSU
-
-
-====================
-     28-08-2023
-====================
-
-* AlphaDroid 1.8
-* Merged LA.UM.9.8.c25-01500-SDM710.0 into kernel
-* Updated KernelSU
-* Added KernelSU proper modules support, thanks to a protip from @nmslnmslnmslnmsl
-
-====================
-     08-08-2023
-====================
-
-* AlphaDroid 1.7.9
-* Enabled LOS charging control (replaces Smart Charging)
-* Added KernelSU
-
-====================
-     24-05-2023
-====================
-
-* AlphaDroid 1.5.1
-* Fixed Dirac SEPolicy denials
-* Restored call recording
-
-====================
-     02-05-2023
-====================
-
-* AlphaDroid 1.5
-* Fixed disable dt2w option
-* Readapted FOD implementation to qpr2
-
-====================
-     17-03-2023
-====================
-
-* AlphaDroid 1.2.1
-* Enabled LiveDisplay (replaces kcal display calibration)
-* Switched to qti power hal
-
-====================
-     14-02-2023
-====================
-
-* restore FOD support
-
-====================
-     13-02-2023
-====================
-
-* february security patches
-* enforcing selinux
-* fixed power off charging animation
-
-====================
-     24-01-2023
-====================
-
-* initial AlphaDroid stable build
+* AlphaDroid 2.0
+* Androd 14 bringup using LOS sdm710-common trees as base
+* Unified device and vendor trees
+* Dropped dynamic partions
+* Completed SEPolicy for enforcing build
+* Reimplemented extended Fastcharge with restricted current support
