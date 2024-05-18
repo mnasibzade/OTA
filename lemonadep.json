@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "JYR_RC",
+			"oem": "oneplus",
+			"device": "9 pro",
+			"filename": "AlphaDroid-14.0-20240518-lemonadep-gapps-v2.1.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/lemonadep/AlphaDroid-14.0-20240518-lemonadep-gapps-v2.1.zip/download",
+			"timestamp": 1716035003,
+			"md5": "0714deb8dc8a383d342d14147c6a529a",
+			"sha256": "74497a98be2ce0bef861d081e934200e90cd424fdfd1a208dffedbb85721ea3e",
+			"size": 2256398143,
+			"version": "2.1",
+			"buildtype": "gapps",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/JYR_RC_lemonadep",
+			"dt": "https://github.com/AlphaDroid-devices/device_oneplus_lemonadep",
+			"common-dt": "https://github.com/AlphaDroid-devices/device_oneplus_sm8350-common",
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_oneplus_sm8350"
+		}
+	]
+}
