@@ -3,7 +3,7 @@ Build type: Monthly
 Device: Redmi Note 7Pro (Violet)
 Device maintainer: Dr.Opto
 
-===== 28.02.2024 =====
-- Initial A14 relese
-- Vanilla build only
-- Mi Cam by default
+===== 20.05.2024 =====
+- MicroG included in build
+- Clean flash is mandatory
+- Some Underhood changes
