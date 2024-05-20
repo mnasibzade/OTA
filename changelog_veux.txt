@@ -4,6 +4,12 @@ Device: Poco X4 Pro
 Device maintainer: MrTopiA
 
 ====================
+     20-05-2024
+====================
+- Shifting Back too AlphaLauncher
+- Fixed Slow Charging and Heating
+
+====================
      21-03-2024
 ====================
 
