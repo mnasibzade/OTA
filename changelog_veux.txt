@@ -4,6 +4,14 @@ Device: Poco X4 Pro
 Device maintainer: MrTopiA
 
 ====================
+     27-05-2024
+====================
+- Play Integrity Fixed out of the Box
+- Implemented Performance Tweaks and GameOptimisation Tweaks from OS1.0.3.0.TKCMIXM for better performance.
+- Disable Skia tracing by default to fix battery drain
+- Enabled suspend to RAM to improve idle drain considerably
+
+====================
      20-05-2024
 ====================
 - Shifting Back too AlphaLauncher
