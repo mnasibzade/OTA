@@ -4,6 +4,17 @@ Device: Oneplus 9 pro
 Device maintainer: JYR_RC
 
 ====================
+     26-05-2024
+====================
+
+- Integrity pass default
+
+- Small changes in app ott
+
+- Fixed bt smartlock google
+
+
+====================
      18-05-2024
 ====================
 
