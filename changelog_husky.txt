@@ -3,7 +3,49 @@ Device: Pixel 8 Pro (husky)
 Device maintainer: OscarM
 
 ====================
-    06-03-2024
+     05-27-2024
 ====================
--Initial Alpha 2.1 Release
 
+   * frameworks/base
+94138f7f0fb9 Frameworks: Enable VoNR by default
+
+====================
+     05-26-2024
+====================
+   * Passing integrity by default
+   * build/soong
+e7406335c Add vendor/lineage-priv/keys to allowlist
+
+   * frameworks/base
+09407b111828 PixelPropUtils: Do not spoof unspecified packages as barbet
+ad6d582d3726 fixup! Integrate Pixel framework hooks and wrappers
+c41ecd861c02 [WA] Disable FaceUnlock Lockouts
+755dd908e06b Integrate Pixel framework hooks and wrappers
+
+   * packages/apps/Settings
+b21b3c2ecd7 Settings: Import columbus preference settings
+450a7a2e3c4 Settings: Import settings from pixel-fw
+ea57686e7c7 Settings: Replace android:name for SettingsGoogle
+
+   * system/core
+432e69f6b1 Set properties to make SafetyNet pass
+
+   * vendor/lineage
+9da4cf04 fix up rro_overlays
+b7764afd pixel stuff
+4bca7c44 overlay: Set components from pixel device
+00cad352 Add Pixel Overlays
+c1885593 Import CarrierSettings and Overlays
+
+====================
+     05-25-2024
+====================
+
+   * frameworks/base
+089367ed25e4 PixelPropUtils: spoof another one...
+
+   * hardware/qcom-caf/thermal
+a1bb7a3 thermal-hal: Enable thermal_hal support for yupik variants
+
+   * packages/apps/FlipFlap
+fd4e1e2 FlipFlap: Update ForegroundService and broadcast receivers for U
