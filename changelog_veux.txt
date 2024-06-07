@@ -6,6 +6,14 @@ Device maintainer: MrTopiA
 ====================
      27-05-2024
 ====================
+- Implemented Tweaks regarding zRam for better performance...
+- Made some configuration regarding thermals
+- Updated Blobs to MIUI 14.0.3.0 TKCCNXM for the best optimisation cuz hyperOs sucks
+- Play Integrity passes as usual
+
+====================
+     27-05-2024
+====================
 - Play Integrity Fixed out of the Box
 - Implemented Performance Tweaks and GameOptimisation Tweaks from OS1.0.3.0.TKCMIXM for better performance.
 - Disable Skia tracing by default to fix battery drain
