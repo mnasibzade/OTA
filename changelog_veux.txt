@@ -4,6 +4,15 @@ Device: Poco X4 Pro
 Device maintainer: MrTopiA
 
 ====================
+    17-06-2024
+====================
+- 5th June 2024 Security Patch 
+- Updated Blobs from MIUI 14.0.5.0.TKCIDXM
+- Fixed FM Radio & Screen Cast
+- Nuked Useless Display Color Modes ( Automatic, sRGB, p3, Original )
+- PI fixes as usual
+
+====================
      27-05-2024
 ====================
 - Implemented Tweaks regarding zRam for better performance...
