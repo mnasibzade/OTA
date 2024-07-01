@@ -4,13 +4,13 @@
 			"maintainer": "Cr1st1anlp",
 			"oem": "Xiaomi",
 			"device": "Mi 11T Pro",
-			"filename": "AlphaDroid-14.0-20240323-vili-gapps-v2.0.zip",
-			"download": "https://sourceforge.net/projects/alphadroid-project/files/vili/AlphaDroid-14.0-20240323-vili-gapps-v2.0.zip/download",
-			"timestamp": 1711224322,
-			"md5": "3b77acb7c9c7f31f2dbc0ac56754d656",
-			"sha256": "3e31c8392cfa51c1235ad149ecf9e6f65f07f75c00d198be884a0cecc85958ec",
-			"size": 2453513646,
-			"version": "2.0",
+			"filename": "AlphaDroid-14.0-20240701-vili-gapps-v2.2.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/vili/AlphaDroid-14.0-20240701-vili-gapps-v2.2.zip/download",
+			"timestamp": 1719852111,
+			"md5": "7799078c79b10dd2faf999e8246f0c9a",
+			"sha256": "58517fadaac5b4056c6526f0bb61904fffa9115d4312f96220060fbe38bd3a08",
+			"size": 2531881409,
+			"version": "2.2",
 			"buildtype": "gapps",
 			"forum": "",
 			"gapps": "",
@@ -26,3 +26,4 @@
 		}
 	]
 }
+
