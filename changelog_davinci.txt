@@ -4,6 +4,21 @@ Device: Xiaomi MI 9T
 Device maintainer: t.me/hopethislasts
 
 ====================
+     02-Jul-2024
+====================
+* Update to AlphaDroid 2.2
+* Signed Build with Official keys from Alpha
+* OTA updates will start over for Gapps build
+* Switch to Sleepy kernel by defaul
+* Drop KSU
+* Update dt from Arian's los
+* Update adreno blobs to v767
+* Remove XiaomiParts doze
+* Add crdroid doze features
+* Build erofs odm and vendor images
+* Explicitly disable "Enable GL comp backpressure
+
+====================
      07-Mar-2024
 ====================
 * Initial Offcial Release
