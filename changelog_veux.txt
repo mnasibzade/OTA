@@ -4,6 +4,16 @@ Device: Poco X4 Pro
 Device maintainer: MrTopiA
 
 ====================
+    03-07-2024
+====================
+- Merged with latest sources
+- Fixed Wifi Calling
+- Implemnented BCR by default
+- Implemented XiaomiParts( Per-App refresh rate, Speaker Cleaner, Per-App Thermal Profiles, etc)
+- Implemented Tweaks regarding zRam for better performance...
+- Add OTA Supoort for Vanilla builds
+
+====================
     17-06-2024
 ====================
 - 5th June 2024 Security Patch 

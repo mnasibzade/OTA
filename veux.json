@@ -4,13 +4,13 @@
 			"maintainer": "MrTopiA",
 			"oem": "Redmi",
 			"device": "Poco X4 Pro",
-			"filename": "AlphaDroid-14.0-20240617-veux-gapps-v2.1.zip",
-			"download": "https://sourceforge.net/projects/alphadroid-project/files/veux/AlphaDroid-14.0-20240617-veux-gapps-v2.1.zip/download",
-			"timestamp": 1718634828,
-			"md5": "5e4fb67f7153edd15b312f788aee5590",
-			"sha256": "5d54ff53247aa58c5ff1e80d03b2b3de31b11b0c70e1b724ca9ee8fca850afd9",
-			"size": 2013115324,
-			"version": "2.1",
+			"filename": "AlphaDroid-14.0-20240703-veux-gapps-v2.2.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/veux/AlphaDroid-14.0-20240703-veux-gapps-v2.2.zip/download",
+			"timestamp": 1719971803,
+			"md5": "d65ea5fd720077c7eb2bcbfb8c6add39",
+			"sha256": "495edaef72cbf3798398b5d5adc23bb53546b82709eefbe6df764476ee8c92d0",
+			"size": 2025638397,
+			"version": "2.2",
 			"buildtype": "gapps",
 			"forum": "",
 			"gapps": "",
@@ -24,5 +24,29 @@
 			"common-dt": "",
 			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_sm6375"
 		}
-	]
+	        {
+                        "maintainer": "MrTopiA",
+                        "oem": "Redmi",
+                        "device": "Poco X4 Pro",
+                        "filename": "AlphaDroid-14.0-20240702-veux-vanilla-v2.2.zip",
+                        "download": "https://sourceforge.net/projects/alphadroid-project/files/veux/AlphaDroid-14.0-20240702-veux-vanilla-v2.2.zip/download",
+                        "timestamp": 1719934595,
+                        "md5": "58278a4225eafab32a052c994916ccd9",
+                        "sha256": "204fccb3ba8ba0d4f7c37a9f7c086ac63f931b25822f03eef7c043ca38e40a76",
+                        "size": 1562760414,
+                        "version": "2.2",
+                        "buildtype": "vanilla",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/MrTopiA",
+                        "dt": "https://github.com/AlphaDroid-devices/device_xiaomi_veux",
+                        "common-dt": "",
+                        "kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_sm6375"
+                }
+        ]
 }
