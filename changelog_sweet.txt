@@ -4,6 +4,13 @@ Device: Xiaomi Redmi Note10 Pro
 Device maintainer: JYR_RC
 
 ====================
+     14-07-2024
+====================
+
+- July security patch
+- Non Erofs Build
+
+====================
      16-05-2024
 ====================
 
