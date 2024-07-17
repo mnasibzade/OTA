@@ -4,6 +4,17 @@ Device: Xiaomi 11T Pro
 Device maintainer: Cr1st1anlp
 
 ====================
+     16-07-2024
+====================
+- SWitch to Miui camera (vili hyperos)
+- Use AOSP default Codec2/OMX rank
+- Update ViPER4Android FX 6.5
+- Update BCR 1.65
+- KernelSU support
+- lmkd: kill heaviest task instead of any eligible task
+- Disable VSync for CPU-rendered apps
+
+====================
      05-07-2024
 ====================
 - Sync with latest source July security patch
