@@ -4,9 +4,19 @@ Device: Xiaomi 11T Pro
 Device maintainer: Cr1st1anlp
 
 ====================
+     20-07-2024
+====================
+- Sync with latest source
+- Dropped again KernelSU support. Use APatch or Magisk instead
+- Build android.hardware.graphics.common-V4-ndk
+- Move input surface to CCodec
+- Remove media_codecs_google_c2
+- 8Gb dalvik heap size config
+
+====================
      16-07-2024
 ====================
-- SWitch to Miui camera (vili hyperos)
+- Switch to Miui camera (vili hyperos)
 - Use AOSP default Codec2/OMX rank
 - Update ViPER4Android FX 6.5
 - Update BCR 1.65
