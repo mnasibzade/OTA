@@ -4,6 +4,11 @@ Device: Realme GT Neo2 5G
 Device maintainer: Arsalan_zeus
 
 ====================
+     02-20-2024
+====================
+- update blobs to f18 ex900.
+
+====================
      02-07-2024
 ====================
 - fix lockscreen charging info.
