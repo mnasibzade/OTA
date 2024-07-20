@@ -4,6 +4,16 @@ Device: POCO X5 5G/Redmi Note 12 5G
 Device maintainer: KamiKaonashi
 
 ====================
+     20-07-2024
+====================
+
+add back FM radio
+adapt tweaks for 4GB users only
+fix lag blur
+battery tweaks
+and more
+
+====================
      24-03-2024
 ====================
 
