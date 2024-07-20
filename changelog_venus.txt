@@ -4,6 +4,14 @@ Device: Xiaomi Mi 11
 Device maintainer: KamiKaonashi
 
 ====================
+     20-07-2024
+====================
+
+unify tree and vendor
+energy optimization for kernel
+some QoL improvements
+
+====================
      15-02-2024
 ====================
 
