@@ -4,6 +4,16 @@ Device: Xiaomi MI 9T
 Device maintainer: t.me/hopethislasts
 
 ====================
+     23-Jul-2024
+====================
+* Update to AlphaDroid 2.3
+* Switch to perf kernel from crdroid sm6150
+* Add prop again: Disable backpressure propagation in SF
+* Revert: Update adreno blobs to v767 and add back drivers by Aryan
+* Rebase trees with latest changes from los
+* Use latest Leica Cam Release 7.5 by Denis
+
+====================
      02-Jul-2024
 ====================
 * Update to AlphaDroid 2.2
