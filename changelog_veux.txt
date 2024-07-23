@@ -4,6 +4,13 @@ Device: Poco X4 Pro
 Device maintainer: MrTopiA
 
 ====================
+    24-07-2024
+====================
+- Merged with latest source
+- Drop OTA supoort for vanilla builds
+- Miscellaneous Improvements
+
+====================
     03-07-2024
 ====================
 - Merged with latest sources
