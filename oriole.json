@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "IczYn",
+			"oem": "Google",
+			"device": "Google Pixel 6",
+			"filename": "AlphaDroid-14.0-20240723-oriole-vanilla-v2.3.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/oriole/AlphaDroid-14.0-20240723-oriole-vanilla-v2.3.zip/download",
+			"timestamp": 1721758779,
+			"md5": "c979f857555f0b05fe40d5cf3d87eac9",
+			"sha256": "50754430331480d45acccd5ca38d08c4c526a7330539029dceb257de103e7927",
+			"size": 1741821670,
+			"version": "2.3",
+			"buildtype": "vanilla",
+			"forum": "https://t.me/alphadroid_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://drive.google.com/drive/folders/1x7mAjcBdIaqrqQ5EPIghR9SUXyucli5U",
+			"paypal": "https://www.paypal.me/iczyn",
+			"telegram": "https://t.me/iczynbuilds",
+			"dt": "https://github.com/AlphaDroid-devices/device_google_raviole",
+			"common-dt": "",
+			"kernel": "https://android.googlesource.com/device/google/raviole-kernel"
+		}
+	]
+}

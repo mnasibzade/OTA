@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "IczYn",
+			"oem": "Google",
+			"device": "Google Pixel 6a",
+			"filename": "AlphaDroid-14.0-20240723-bluejay-vanilla-v2.3.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/bluejay/AlphaDroid-14.0-20240723-bluejay-vanilla-v2.3.zip/download",
+			"timestamp": 1721761462,
+			"md5": "187859fc1d45a415bc118707057d2125",
+			"sha256": "6d77dc55530efa72fd2fbafae649aaf78eb904c076804c63c072421dada64a47",
+			"size": 1743228131,
+			"version": "2.3",
+			"buildtype": "vanilla",
+			"forum": "https://t.me/alphadroid_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://drive.google.com/drive/folders/1Ibx_c76Br1HQXPjTWb-4QL2wtv1y3RYh",
+			"paypal": "https://www.paypal.me/iczyn",
+			"telegram": "https://t.me/iczynbuilds",
+			"dt": "https://github.com/AlphaDroid-devices/device_google_bluejay",
+			"common-dt": "",
+			"kernel": "https://android.googlesource.com/device/google/bluejay-kernel"
+		}
+	]
+}
