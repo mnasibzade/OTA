@@ -1,0 +1,9 @@
+Device: Google Pixel 6 Pro (raven)
+Device maintainer: IczYn
+
+====================
+     23-07-2024
+====================
+
+* Initial AlphaDroid 2.3
+* Adapted to Android 14 QPR3
