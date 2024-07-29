@@ -1,7 +1,15 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Poco X3 NFC (surya)
-Device maintainer: Carlos Arriaga (TheStrechh)
+Device maintainer: lily985
+
+====================
+    29-07-2024
+====================
+
+Intial Build For UQPR3
+July Security Patch
+Misc Fixes And Improvements
 
 ====================
     13-10-2023
