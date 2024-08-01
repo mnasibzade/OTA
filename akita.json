@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "OscarM",
+			"oem": "Google",
+			"device": "Pixel 8a (akita)",
+			"filename": "AlphaDroid-14.0-20240801-akita-gapps-v2.3.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/akita/AlphaDroid-14.0-20240801-akita-gapps-v2.3.zip/download",
+			"timestamp": 1722533229,
+			"md5": "4a96ac203fab562a3d6decb0a1967d16",
+			"sha256": "26cdc9800d5bf62da259893b870691a058024ffdd01effa8adaab7361f6aa18a",
+			"size": 1996488279,
+			"version": "2.3",
+			"buildtype": "gapps",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/p8seriesromextravaganza",
+			"dt": "https://github.com/AlphaDroid-devices/device_google_akita",
+			"common-dt": "https://github.com/AlphaDroid-devices/device_google_zuma",
+			"kernel": ""
+		}
+	]
+}
