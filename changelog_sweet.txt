@@ -4,6 +4,18 @@ Device: Xiaomi Redmi Note10 Pro
 Device maintainer: JYR_RC
 
 ====================
+     02-08-2024
+====================
+
+- Change dolby oneplus for moto dolby
+- Switch Strixx kernel for Perf 4.14.349 clang 17.0.2
+- Nuke Spatial audio
+- Fixed double tap to wake
+- Miuicamera default camera
+- Lawnchair and lawnicons default launcher
+- Gapps and vanilla builds
+
+====================
      14-07-2024
 ====================
 
