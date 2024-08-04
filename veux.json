@@ -1,28 +1,28 @@
 {
-	"response": [
-		{
-			"maintainer": "MrTopiA",
-			"oem": "Redmi",
-			"device": "Poco X4 Pro",
-			"filename": "AlphaDroid-14.0-20240723-veux-gapps-v2.3.zip",
-			"download": "https://sourceforge.net/projects/alphadroid-project/files/veux/AlphaDroid-14.0-20240723-veux-gapps-v2.3.zip/download",
-			"timestamp": 1721748174,
-			"md5": "e3db4343150547f2f71b4b23e2307325",
-			"sha256": "3e9f4666d6607df0f5587825d39992e2d55ba327a678845f4a5618dc79dca2a6",
-			"size": 2231213545,
-			"version": "2.3",
-			"buildtype": "gapps",
-			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "https://t.me/MrTopiA",
-			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_veux",
-			"common-dt": "",
-			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_sm6375"
-		}
-	]
+        "response": [
+                {
+                        "maintainer": "MrTopiA",
+                        "oem": "Redmi",
+                        "device": "Poco X4 Pro",
+                        "filename": "AlphaDroid-14.0-20240804-veux-gapps-v2.3.zip",
+                        "download": "https://sourceforge.net/projects/alphadroid-project/files/veux/AlphaDroid-14.0-20240804-veux-gapps-v2.3.zip/download",
+                        "timestamp": 1722774775,
+                        "md5": "b4d7b4eef75f3438622c5e33267e1da2",
+                        "sha256": "3c6bc2f558416a1fdf5a5ed7ab04b2a14477bdcdf7d2820f7a0a68b1336a4e36",
+                        "size": 2200155643,
+                        "version": "2.3",
+                        "buildtype": "gapps",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/MrTopiA",
+                        "dt": "https://github.com/AlphaDroid-devices/device_xiaomi_veux",
+                        "common-dt": "",
+                        "kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_sm6375"
+                }
+        ]
 }

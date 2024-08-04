@@ -4,6 +4,12 @@ Device: Poco X4 Pro
 Device maintainer: MrTopiA
 
 ====================
+    04-08-2024
+====================
+- Merged with latest source
+- Signed Build ( Play Integrity Passes out of the box)
+
+====================
     24-07-2024
 ====================
 - Merged with latest source
