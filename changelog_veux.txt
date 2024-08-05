@@ -4,6 +4,13 @@ Device: Poco X4 Pro
 Device maintainer: MrTopiA
 
 ====================
+    05-08-2024
+====================
+- Merged with latest source
+- Implemented XiaomiParts Dolby ( Officially Certified for both Apple and TIDAL music )
+- Implemented ViPER4AndroidFX
+
+====================
     04-08-2024
 ====================
 - Merged with latest source
