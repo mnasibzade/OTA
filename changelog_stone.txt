@@ -4,6 +4,15 @@ Device: POCO X5 5G/Redmi Note 12 5G
 Device maintainer: KamiKaonashi
 
 ====================
+     19-08-2024
+====================
+
+update blobs to latest hyperOS 1.0.7.0
+update fingerprints
+update carrierconfig
+misc stuff
+
+====================
      20-07-2024
 ====================
 
