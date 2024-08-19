@@ -4,6 +4,16 @@ Device: Xiaomi Mi 11
 Device maintainer: KamiKaonashi
 
 ====================
+     19-08-2024
+====================
+
+add back Dolby Atmos
+adjust auto Refresh rate
+switch to AOSP WFD
+adapt Sepolicy
+other misc stuff
+
+====================
      20-07-2024
 ====================
 
