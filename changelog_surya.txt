@@ -4,6 +4,14 @@ Device: Poco X3 NFC (surya)
 Device maintainer: lily985
 
 ====================
+    20-08-2024
+====================
+
+Latest Source Changes
+August Security Patch
+Misc Fixes And Improvements
+
+====================
     29-07-2024
 ====================
 
