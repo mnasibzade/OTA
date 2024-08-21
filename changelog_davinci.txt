@@ -4,6 +4,17 @@ Device: Xiaomi MI 9T
 Device maintainer: t.me/hopethislasts
 
 ====================
+     21-Aug-2024
+====================
+* Update to AlphaDroid 2.4
+* Enable smart pixles feature
+* Disable smart pixels on udfps
+* Switch to our own Kernel fork of Arian's perf - Ekko
+* Add support for Anti flicker mode
+* Avoid using light sensor for pocket mode
+* Upstream changes from arian's dt
+
+====================
      23-Jul-2024
 ====================
 * Update to AlphaDroid 2.3
