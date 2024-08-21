@@ -1,6 +1,23 @@
 Device: Xiaomi Mi 9 SE (Grus)
 Device maintainer: elpaablo
 
+
+====================
+     21-08-2024
+====================
+
+* AlphaDroid 2.4
+* August security patches
+* Synced LOS common trees
+
+====================
+     20-07-2024
+====================
+
+* AlphaDroid 2.3
+* July security patches
+* Synced LOS common trees
+
 ====================
      16-05-2024
 ====================
