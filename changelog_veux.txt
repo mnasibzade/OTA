@@ -4,6 +4,15 @@ Device: Poco X4 Pro
 Device maintainer: MrTopiA
 
 ====================
+    22-08-2024
+====================
+- Drop Support for Vanilla (No one cares to test)
+- Implemented OPLUS Dolby [TMP]
+- Switched to Launcher 14.0 [STABLE] as Default Launcher
+- Dropped ViPER4Android [TMP]
+- Merged with Latest Source
+
+====================
     05-08-2024
 ====================
 - Merged with latest source
