@@ -1,0 +1,52 @@
+{
+	"response": [
+		{
+			"maintainer": "elpaablo, REV3NT3CH",
+			"oem": "OnePlus",
+			"device": "Ace 3 | 12R",
+			"filename": "AlphaDroid-14.0-20240828-aston-microg-v2.4.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/aston/AlphaDroid-14.0-20240828-aston-microg-v2.4.zip/download",
+			"timestamp": 1724872449,
+			"md5": "68af874872afbdb6de25a1a198d4a77c",
+			"sha256": "0576e6ded0d191e8fd35ca001f96e6cacdf39410774e6a75d06d23dee99266ab",
+			"size": 2594211735,
+			"version": "2.4",
+			"buildtype": "microg",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/alphadroid_chat",
+			"dt": "https://github.com/alphadroid-devices/device_oneplus_aston",
+			"common-dt": "https://github.com/alphadroid-devices/device_oneplus_sm8550-common",
+			"kernel": "https://github.com/alphadroid-devices/kernel_oneplus_sm8550"
+		},
+		{
+			"maintainer": "elpaablo, REV3NT3CH",
+			"oem": "OnePlus",
+			"device": "Ace 3 | 12R",
+			"filename": "AlphaDroid-14.0-20240828-aston-gapps-v2.4.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/aston/AlphaDroid-14.0-20240828-aston-gapps-v2.4.zip/download",
+			"timestamp": 1724875268,
+			"md5": "3f31e405209552d86638e73095a78a93",
+			"sha256": "5d35e298e196b9ac74655baad868077c6fdb8b86f6f23e469ca78ee7b8d074e1",
+			"size": 3218512228,
+			"version": "2.4",
+			"buildtype": "gapps",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/alphadroid_chat",
+			"dt": "https://github.com/alphadroid-devices/device_oneplus_aston",
+			"common-dt": "https://github.com/alphadroid-devices/device_oneplus_sm8550-common",
+			"kernel": "https://github.com/alphadroid-devices/kernel_oneplus_sm8550"
+		}
+	]
+}
