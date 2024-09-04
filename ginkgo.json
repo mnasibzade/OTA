@@ -1,7 +1,7 @@
 {
 	"response": [
 		{
-			"maintainer": "Agatha",
+			"maintainer": "mnasibzade",
 			"oem": "Xiaomi",
 			"device": "Xiaomi Redmi Note 8",
 			"filename": "AlphaDroid-13.0-20231008-ginkgo-gapps-v1.10.zip",
@@ -11,7 +11,7 @@
 			"sha256": "15663f853113cf9f3951511d83e96cf4e8956f7bedf28f44af8249ca402cd12d",
 			"size": 1720166183,
 			"version": "1.10",
-			"buildtype": "gapps",
+			"buildtype": "",
 			"forum": "",
 			"gapps": "",
 			"firmware": "",
@@ -19,10 +19,10 @@
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": "https://t.me/agathasenpai",
+			"telegram": "https://t.me/shawkbuilddiscussion",
 			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_ginkgo",
 			"common-dt": "",
-			"kernel": "https://github.com/agathasenpai/android_kernel_xiaomi_ginkgo"
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_ginkgo"
 		}
 	]
 }
