@@ -4,6 +4,12 @@ Device: POCO X5 5G/Redmi Note 12 5G
 Device maintainer: KamiKaonashi
 
 ====================
+     12-09-2024
+====================
+
+fine tune powerhint
+
+====================
      19-08-2024
 ====================
 
