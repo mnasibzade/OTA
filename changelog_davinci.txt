@@ -4,6 +4,12 @@ Device: Xiaomi MI 9T
 Device maintainer: t.me/hopethislasts
 
 ====================
+     13-Sep-2024
+====================
+* Update to AlphaDroid 2.5
+* Drop crdroid doze and switch back to xiaomi parts
+
+====================
      21-Aug-2024
 ====================
 * Update to AlphaDroid 2.4
