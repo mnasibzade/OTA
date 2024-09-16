@@ -4,6 +4,15 @@ Device: Xiaomi 11T Pro
 Device maintainer: Cr1st1anlp
 
 ====================
+     16-09-2024
+====================
+- Update to ViPER4Android FX Redesign 7.0
+- Added support for Dolby Vision
+- Updated device blobs and firmware from HyperOS 1.0.5.0.UKDMIXM
+- KernelSU support
+- Other Fixes and changes under the hood
+
+====================
      18-08-2024
 ====================
 - Updated device blobs and firmware from HyperOS 1.0.3.0.UKDEUXM
