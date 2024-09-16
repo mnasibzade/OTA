@@ -1,15 +1,34 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Xiaomi Redmi Note 8
-Device maintainer: Agatha
+Device maintainer: mnasibzade
 
+====================
+     16-09-2023
+====================
+- Sync with latest source
+- September security patches
+- Added Dolby Atmos from OnePlus 9R
+- Enabled suspend to RAM
+- Disabled slow blur effects 
+- Enabled camera override format from reserved
+- Used common libqti-perfd-client and power-libperfmgr
+- Removed prebuilt libqti-perfd-client and power-libperfmg
+- Disabled kernel logging
+- Reduced boot time
+- Updated Italian Carrier support VoLTE
+- Kanged gboard padding from panther
+- Enabled VoLTE by default
+====================
+     08-08-2023
+====================
+- Initial Android build
 ====================
      08-10-2023
 ====================
 - Sync latest source
 - Revert "ginkgo: Enable config_avoidGfxAccel"
 - More Improvement And Stability
-
 ====================
      27-08-2023
 ====================
@@ -74,15 +93,13 @@ Device maintainer: Agatha
 - Sync Latest Source
 - April Security patch
 - Misc changes and fixes
-- More Improvement And Stabilit
-
+- More Improvement And Stability
 ====================
      18-03-2023
 ====================
   -  Sync Latest Sourve
   -  Merged February 2023 security patches
   -  ginkgo: Switch back to LA.UM.9.11.r1-04500-NICOBAR.0 adreno stack
-
 ====================
      16-02-2023
 ====================
