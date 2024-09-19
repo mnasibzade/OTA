@@ -1,7 +1,15 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Poco X3 NFC (surya)
-Device maintainer: lily985
+Device maintainer: shoya0x00
+
+====================
+    19-09-2024
+====================
+
+Latest Source Changes
+September Security Patch
+Misc Fixes And Improvements
 
 ====================
     20-08-2024
