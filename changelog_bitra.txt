@@ -4,6 +4,14 @@ Device: Realme GT Neo2 5G
 Device maintainer: Arsalan_zeus
 
 ====================
+     09-10-2024
+===================
+- sync to latest Alphadroid sources.
+- updated dolby.
+- added bcr.
+- misc changes i don't remember 
+
+====================
      19-09-2024
 ====================
 - fix gallery send feature.
