@@ -3,6 +3,31 @@ Device: Redmi K20 Pro / Mi 9T Pro (Raphael)
 Device maintainer: onettboots
 
 ====================
+     25-10-2024
+====================
+
+• Disable ART debug and optimize dexpreopt
+• Uses Hildo @Firebird11 trees and vendor for base
+• Add for refresh rate settings
+• Fix FOD refresh rate
+• Fix some selinux denial 
+• Switch to Boolx clang
+• Optimize vendor prop and drop uneeded stuff
+• Uses Mi Thermal Implementation
+• Build Qti Thermal 2.0 service
+• Fix crash for app KProfiles 
+• Drop custome uclamp set swicthed to kernel for manage 
+• Fix powerhint configs caused normall usage stuck at 150-715 freq, now is between 150-345 for normall usage
+• Fix Installations and impl any ksu modules
+• Updated GPU 786 @LyNcHP1N with fixes vulkan ig/fb reels
+• Bring back 32bit apps support
+• Fix some sepolicies 
+• Optimized Hwui props
+• Uses Boolx Kernel 2.1
+
+
+
+====================
      14-10-2023
 ====================
 
