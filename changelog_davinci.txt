@@ -4,6 +4,12 @@ Device: Xiaomi MI 9T
 Device maintainer: t.me/hopethislasts
 
 ====================
+     05-Nov-2024
+====================
+* Update to AlphaDroid 2.6 (EOL for Android 14)
+
+====================
+
      13-Sep-2024
 ====================
 * Update to AlphaDroid 2.5
