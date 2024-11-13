@@ -4,6 +4,13 @@ Device: Xiaomi MI 9T
 Device maintainer: t.me/hopethislasts
 
 ====================
+     13-Nov-2024
+====================
+* AlphaDroid 2.6 Hotfix
+* Source: Attempted to fix memory leaks
+* Upstream Kernel to 4.14.355
+
+====================
      05-Nov-2024
 ====================
 * Update to AlphaDroid 2.6 (EOL for Android 14)
