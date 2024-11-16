@@ -3,6 +3,20 @@ Device: Redmi K20 Pro / Mi 9T Pro (Raphael)
 Device maintainer: onettboots
 
 ====================
+     16-11-2024
+====================
+
+• Uses Hildo @Firebird11 trees and vendor for base
+• Fix Bluetooth tws issue
+• Fix some selinux denial 
+• Fix thermal some heating
+• Update GPU 786 driver from @LyNcHP1N 
+• Use latest Boolx kernel
+• change some governor ddr to somple_ondemand
+• Reoptimize props 
+
+
+====================
      25-10-2024
 ====================
 
