@@ -2,6 +2,14 @@ Device: Xiaomi Mi 9 SE (Grus)
 Device maintainer: elpaablo
 
 ====================
+     16-11-2024
+====================
+
+* AlphaDroid 2.6
+* November security patches
+* Switched to dynamic partitions
+
+====================
      25-09-2024
 ====================
 
