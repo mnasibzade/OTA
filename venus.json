@@ -23,7 +23,7 @@
 			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_venus",
 			"common-dt": "https://github.com/AlphaDroid-devices/device_xiaomi_sm8350-common",
 			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_venus"
-		}
+		},
 		{
 			"maintainer": "KamiKaonashi",
 			"oem": "Xiaomi",
@@ -47,7 +47,7 @@
 			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_venus",
 			"common-dt": "https://github.com/AlphaDroid-devices/device_xiaomi_sm8350-common",
 			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_venus"
-		}
+		},
 		{
 			"maintainer": "KamiKaonashi",
 			"oem": "Xiaomi",
