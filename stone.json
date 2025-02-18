@@ -23,7 +23,7 @@
 			"dt": "",
 			"common-dt": "",
 			"kernel": ""
-		}
+		},
 		{
 			"maintainer": "KamiKaonashi",
 			"oem": "Xiaomi",
@@ -47,7 +47,7 @@
 			"dt": "",
 			"common-dt": "",
 			"kernel": ""
-		}
+		},
 		{
 			"maintainer": "KamiKaonashi",
 			"oem": "Xiaomi",
@@ -71,6 +71,6 @@
 			"dt": "",
 			"common-dt": "",
 			"kernel": ""
-		}	
+		}
 	]
 }
