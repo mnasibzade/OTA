@@ -13,8 +13,8 @@ In order for a device to be OTA compliant, there are a few things to know.
         "maintainer": "Name (nickname)",
         "oem": "OEM",
         "device": "Device Name",
-        "filename": "AlphaDroidAndroid-13.0-<date>-<device codename>-v<alphaversion>.zip",
-        "download": "https://sourceforge.net/projects/alphadroid-project/files/<device codename>/AlphaDroid-13.0-<date>-<device codename>-v<alphaversion>.zip/download",
+        "filename": "AlphaDroidAndroid-15.1-<date>-<device codename>-v<alphaversion>.zip",
+        "download": "https://sourceforge.net/projects/alphadroid-project/files/<device codename>/AlphaDroid-15.0-<date>-<device codename>-v<alphaversion>.zip/download",
         "timestamp": 0000000000,
         "md5": "abcdefg123456",
         "sha256": "abcdefg123456",
@@ -70,7 +70,7 @@ For following below description, replace *codename* with your device codename.
 ### 3.2 Update build ###
 1. Clone this repo locally
 ```
-git clone https://github.com/alphadroid-devices/OTA -b alpha-13
+git clone https://github.com/alphadroid-devices/OTA -b alpha-15.1
 ```
 2. Change to the directory where you cloned this repo and fetch updates from repo.
 ```
