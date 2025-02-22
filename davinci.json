@@ -3,15 +3,16 @@
 		{
 			"maintainer": "Rumais",
 			"oem": "Xiaomi",
-			"device": "Xiaomi MI 9T",
-			"filename": "AlphaDroid-14.0-20241120-davinci-gapps-v2.6.1.zip",
-			"download": "https://sourceforge.net/projects/alphadroid-project/files/davinci/AlphaDroid-14.0-20241120-davinci-gapps-v2.6.1.zip/download",
-			"timestamp": 1732105847,
-			"md5": "64c528ba92c7d46d4037d3463d2d365d",
-			"sha256": "8cd6b98f8ae17ea43fbe7a4e2cd99ce36ac8ad62b32b3f9a78d170e6ba5c7b37",
-			"size": 2778580799,
-			"version": "2.6.1",
-			"buildtype": "gapps",
+			"device": "davinci",
+			"filename": "AlphaDroid-15.1-20250221-gapps-davinci-v3.1.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/davinci/AlphaDroid-15.1-20250221-gapps-davinci-v3.1.zip/download",
+			"timestamp": 1740157157,
+			"md5": "1ef0e842577ae3767ae9895b5c2981bf",
+			"sha256": "bacbed8761d182d268c6732ee2ffb51cc09e37c04cf4035c958c7a6253055605",
+			"size": 2801318449,
+			"version": "3.1",
+			"buildtype": "Official",
+			"buildvariant": "gapps",
 			"forum": "",
 			"gapps": "",
 			"firmware": "",
@@ -22,7 +23,7 @@
 			"telegram": "https://t.me/hopethislasts",
 			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_davinci",
 			"common-dt": "https://github.com/AlphaDroid-devices/davinci_sm6150-common",
-			"kernel": "https://github.com/AlphaDroid-devices/kdavinci_kernel_xiaomi_sm6150"
+			"kernel": "https://github.com/AlphaDroid-devices/davinci_kernel_xiaomi_sm6150"
 		}
 	]
 }

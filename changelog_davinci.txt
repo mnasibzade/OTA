@@ -4,64 +4,9 @@ Device: Xiaomi MI 9T
 Device maintainer: t.me/hopethislasts
 
 ====================
-     13-Nov-2024
+     21-Feb-2025
 ====================
-* AlphaDroid 2.6 Hotfix
-* Source: Attempted to fix memory leaks
-* Upstream Kernel to 4.14.355
+* AlphaDroid 3.1 Based on Android 15 - Initial Release
+* Upstream dt from Arian / Aryan
 
-====================
-     05-Nov-2024
-====================
-* Update to AlphaDroid 2.6 (EOL for Android 14)
 
-====================
-
-     13-Sep-2024
-====================
-* Update to AlphaDroid 2.5
-* Drop crdroid doze and switch back to xiaomi parts
-
-====================
-     21-Aug-2024
-====================
-* Update to AlphaDroid 2.4
-* Enable smart pixles feature
-* Disable smart pixels on udfps
-* Switch to our own Kernel fork of Arian's perf - Ekko
-* Add support for Anti flicker mode
-* Avoid using light sensor for pocket mode
-* Upstream changes from arian's dt
-
-====================
-     23-Jul-2024
-====================
-* Update to AlphaDroid 2.3
-* Switch to perf kernel from crdroid sm6150
-* Add prop again: Disable backpressure propagation in SF
-* Revert: Update adreno blobs to v767 and add back drivers by Aryan
-* Rebase trees with latest changes from los
-* Use latest Leica Cam Release 7.5 by Denis
-
-====================
-     02-Jul-2024
-====================
-* Update to AlphaDroid 2.2
-* Signed Build with Official keys from Alpha
-* OTA updates will start over for Gapps build
-* Switch to Sleepy kernel by defaul
-* Drop KSU
-* Update dt from Arian's los
-* Update adreno blobs to v767
-* Remove XiaomiParts doze
-* Add crdroid doze features
-* Build erofs odm and vendor images
-* Explicitly disable "Enable GL comp backpressure
-
-====================
-     07-Mar-2024
-====================
-* Initial Offcial Release
-* KSU support dropped by default
-* Includes Leica Cam
-* Includes Moto Dolby
