@@ -4,7 +4,11 @@ Device: Xiaomi Redmi Note 8
 Device maintainer: mnasibzade
 
 ====================
-     16-09-2023
+     23-02-2025
+====================
+- Initial 3.x release 
+====================
+     16-09-2024
 ====================
 - Sync with latest source
 - September security patches
