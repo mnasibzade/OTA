@@ -1,28 +1,28 @@
 {
-	"response": [
-		{
-			"maintainer": "OscarM",
-			"oem": "Google",
-			"device": "Pixel 8 Pro (husky)",
-			"filename": "AlphaDroid-14.0-20240801-husky-gapps-v2.3.zip",
-			"download": "https://sourceforge.net/projects/alphadroid-project/files/husky/AlphaDroid-14.0-20240801-husky-gapps-v2.3.zip/download",
-			"timestamp": 1722534923,
-			"md5": "2f890a85e4956530f6d12c89ae1f2637",
-			"sha256": "8590976b8bbbd3e6d63d555086d6da3bc9bd77eb3b9d897839d8bd5d8dd5b74f",
-			"size": 2008311636,
-			"version": "2.3",
-			"buildtype": "gapps",
-			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "https://t.me/p8seriesromextravaganza",
-			"dt": "https://github.com/AlphaDroid-devices/device_google_shusky",
-			"common-dt": "https://github.com/AlphaDroid-devices/device_google_zuma",
-			"kernel": ""
-		}
-	]
+    "response": [
+        {
+            "maintainer": "OscarM",
+            "oem": "Google",
+            "device": "Pixel 8 Pro (husky)",
+            "filename": "AlphaDroid-15.1-20250223-gapps-husky-v3.1.zip",
+            "download": "https://sourceforge.net/projects/alphadroid-project/files/husky/AlphaDroid-15.1-20250223-gapps-husky-v3.1.zip/download",
+            "timestamp": 1740349646,
+            "md5": "c1cc5d8419f5faf3ee4fcbb7ee53be2c",
+            "sha256": "4967810cd2289cc1f6cee67cf132b1e71c4c9e3a33bdf3c7d33c40893eb58601",
+            "size": 2764890520,
+            "version": "3.1",
+            "buildtype": "gapps",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/p8seriesromextravaganza",
+            "dt": "https://github.com/AlphaDroid-devices/device_google_shusky",
+            "common-dt": "https://github.com/AlphaDroid-devices/device_google_zuma",
+            "kernel": ""
+        }
+    ]
 }
