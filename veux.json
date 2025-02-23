@@ -1,28 +1,28 @@
 {
-	"response": [
-		{
-			"maintainer": "MrTopiA",
-			"oem": "Redmi",
-			"device": "Poco X4 Pro",
-			"filename": "AlphaDroid-14.0-20240822-veux-gapps-v2.4.zip",
-			"download": "https://sourceforge.net/projects/alphadroid-project/files/veux/AlphaDroid-14.0-20240822-veux-gapps-v2.4.zip/download",
-			"timestamp": 1724287647,
-			"md5": "45d9bf2377466d185a7daed9233f57d7",
-			"sha256": "cc9e30a70bb99778978a0dbc8172011121335f1e9e5bef0e5fe20d84b7d46f8e",
-			"size": 2181443061,
-			"version": "2.4",
-			"buildtype": "gapps",
-			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "https://t.me/MrTopiA",
-			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_veux",
-			"common-dt": "",
-			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_sm6375"
-		}
-	]
+    "response": [
+        {
+            "maintainer": "MrTopiA",
+            "oem": "Redmi",
+            "device": "Poco X4 Pro",
+            "filename": "AlphaDroid-15.1-20250223-gapps-veux-v3.1.zip",
+            "download": "https://sourceforge.net/projects/alphadroid-project/files/veux/AlphaDroid-15.1-20250223-gapps-veux-v3.1.zip/download",
+            "timestamp": 1740284828,
+            "md5": "5aacf905e8d5eedfdb0251ebd75f6e4a",
+            "sha256": "51f35738a59de2f3ecd0354a067ce5af7087b7bc8cecb0e73b2db6e52632c9df",
+            "size": 2318647846,
+            "version": "3.1",
+            "buildtype": "gapps",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/MrTopiA",
+            "dt": "https://github.com/AlphaDroid-devices/device_xiaomi_veux",
+            "common-dt": "",
+            "kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_sm6375"
+        }
+    ]
 }

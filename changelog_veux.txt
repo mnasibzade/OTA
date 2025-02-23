@@ -4,6 +4,17 @@ Device: Poco X4 Pro
 Device maintainer: MrTopiA
 
 ====================
+    23-02-2025
+====================
+- Initial A15 Release
+- Added XiaomiDolby & ViPER4AndroidFX
+- Updated Blobs to latest Global
+- Added Touch Boost & High Touch Sampling Rate
+- Added Hight Brightness Mode
+- Uprev Leica to v4.7
+- Miscellaneous Improvememts
+
+====================
     22-08-2024
 ====================
 - Drop Support for Vanilla (No one cares to test)
